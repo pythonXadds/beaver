@@ -1,3 +1,55 @@
+
+# Beaver Text editor (still my favourite)
+
+**This repository has not been updated for several years**  So I have uploaded some .deb versions of it. which can be downloaded and installed in
+any debian based distro. Including Ubuntu, and there is also a raspberry pi version too!
+
+The reason I felt the need to do this, *despite the fact that debian does have this in their repository* is because I have noticed the version offered
+in the Debian repos doesn't work all that well, and the plugins (which I really like) don't exist. They do in these .deb files however. 
+
+The Plugin I most like is the **Ascii art plugin**. 
+
+I do hope someday developers will come back to this wonderful project and write some markdown plugins and a few updated ones, so that
+this wonderfully light text editor may again be more widely know and therefore used.
+
+
+I have included: 
+
+* Beaver text editor .Deb for 64 bit pc's
+
+* Beaver text editor .deb for i386 pc's
+
+' beaver text editor .armhf.deb which can be used in the **rasperry  pi**
+
+ _____    _______        ____       _    _   _______     ______    
+ | __ \   |  ____|      / __ \     | |  | |  |  ____|   |  __  \   
+ |    /   |  |___      / /__\ \    | |  / |  |  |___    |      /   
+ | ___ \  |  |___     / ______ \    \ \/ /   |  |___    |  |\  \   
+ |_____/  |______|   /_/      \_\    \__/    |______|   |__| \__\  
+
+
+ ________   _______    _      _   ________        _______    _____      __    ________     ______     ______    
+ |__    __|  |  ____|   \ \  / /  |__    __|       |  ____|   | __ \    |  |  |__    __|   /  __  \   |  __  \   
+    |  |     |  |___     \ \/ /      |  |          |  |___    | | \ |   |  |     |  |     |  /  \  |  |      /   
+    |  |     |  |___     / /\ \      |  |          |  |___    | |_/ |   |  |     |  |     |  \__/  |  |  |\  \   
+    |__|     |______|   /_/  \_\     |__|          |______|   |____/    |__|     |__|      \______/   |__| \__\  
+
+
+
+_____       ______     ________        _____     _______    _____    
+ | __ \     /  __  \   |__    __|       | __ \    |  ____|   | __ \   
+ | | \ |   |  /  \  |     |  |          | | \ |   |  |___    |    /      
+ | |_/ |   |  \__/  |     |  |          | |_/ |   |  |___    | ___ \  
+ |____/     \______/      |__|          |____/    |______|   |_____/  
+
+  
+
+
+
+
+
+---
+
 Beaver 0.2.7
 Marc Bevand, Damien Terrier and Emmanuel Turquin, 2000-2003
 
