@@ -1,5 +1,9 @@
 NEWS - list of user-visible changes between releases of Beaver
 
+
+New: added beaver .deb files. Already compiled. Plugins that actually 
+work! 
+
 New in 0.2.7 - 06-28-2003:
   * Small bugfixes
 

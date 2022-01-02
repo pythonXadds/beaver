@@ -12,3 +12,5 @@ Priorities (in a more or less chaotic order):
   (would you contribute ?)
 * New functionalities (diff, mail, RCS, CVS, ...)
 * Any suggestion ???
+* I have added some .deb files, since the ones offered in the debian
+repo don't work properly, nor do the plugins.
